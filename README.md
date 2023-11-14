@@ -11,7 +11,7 @@ Nosso jogo da forca tem o tema: FUTEBOL, você tem que adivinhar qual time está
 
 
 
-# descrição dos códigos
+# Descrição dos códigos
 
 ![codhtml](https://github.com/Denis-Rocha/Projeto-Forca/assets/127851983/5ef22498-5302-4055-b8bd-67c67d43c062)
 
@@ -25,4 +25,30 @@ no HTML criamos o boneco e os botões
 
 ![codjs2](https://github.com/Denis-Rocha/Projeto-Forca/assets/127851983/e4504865-f2e4-4139-8f46-933fdeaa4bc3)
 
-gera as palavras em ordem aleatória, desenha a forca , moctra as letras certas e letras erradas e confere o jogo 
+gera as palavras em ordem aleatória, desenha a forca , moctra as letras certas e letras erradas e confere o jogo. 
+
+
+# Diagramas
+![classes](https://github.com/Denis-Rocha/Projeto-Forca/assets/127851983/fe5d5a7d-f197-4bb5-9d94-fb01f967ae60)
+
+diagrama de classes.
+
+
+
+
+![casosdeuso](https://github.com/Denis-Rocha/Projeto-Forca/assets/127851983/ab1eb328-fc57-459c-b879-97f0fce2e138)
+
+diagrama de casos de uso.
+
+
+
+
+![atividades](https://github.com/Denis-Rocha/Projeto-Forca/assets/127851983/4c7b1992-ce73-4fbe-93d3-5275ac8549e9)
+
+diagrama de atividades.
+
+
+
+
+
+
