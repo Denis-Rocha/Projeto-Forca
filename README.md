@@ -54,6 +54,12 @@ diagrama de casos de uso.
 diagrama de atividades.
 
 
+![WhatsApp Image 2023-11-14 at 10 34 19](https://github.com/Denis-Rocha/Projeto-Forca/assets/127851983/88edab93-93c8-490b-9b5a-5af86b19bb41)
+
+documentação casoso de uso. 
+
+
+
 
 
 
