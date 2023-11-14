@@ -1,7 +1,11 @@
+Denis Rocha Lemos e Isabella Correia de Souza
 # Projeto-forca
-Nosso jogo da forca tem o tema: FUTEBOL, você tem que adivinhar qual time está na sua jogada. Caso não acerte a letra vai se criar uma parte do boneco, se a letra pertencer a palavra e ela for finalizada vai aparecer "parabéns você ganhou!  tentar novamente" ou  " fim de jogo! você perdeu tentar novamente".
+Nosso jogo da forca tem o tema: FUTEBOL, você tem que adivinhar qual time está na sua jogada. Caso não acerte a letra vai se criar uma parte do boneco, se a letra pertencer a palavra e ela for finalizada vai aparecer "vitoria!  tentar novamente" ou  "derrota! tentar novamente".
 
 ![jogo3](https://github.com/Denis-Rocha/Projeto-Forca/assets/127851983/5a86ca78-44e5-4bdc-8c84-208da03cfdff)
+
+![jogo2](https://github.com/Denis-Rocha/Projeto-Forca/assets/127851983/fa84be00-559a-44ab-9f01-0231b2039f33)
+
 
 
 
