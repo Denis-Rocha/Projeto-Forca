@@ -10,6 +10,10 @@ Nosso jogo da forca tem o tema: FUTEBOL, você tem que adivinhar qual time está
 
 
 
+https://github.com/Denis-Rocha/Projeto-Forca/assets/127851983/5d56bb76-806e-4727-83e8-4eb5b75d3fbf
+
+
+
 
 # Descrição dos códigos
 
